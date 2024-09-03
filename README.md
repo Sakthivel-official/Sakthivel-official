@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Sakthivel-official
-- 👀 I’m interested in Competitive Program
+- 👀 I’m interested in Competitive Programming
 - 🌱 I’m currently learning FullStack Java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
